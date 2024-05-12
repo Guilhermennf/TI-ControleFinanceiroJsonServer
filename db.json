@@ -1,0 +1,11 @@
+{
+    "accounts": [
+        {
+            "name": "Gabriel",
+            "lastName": "Santiago",
+            "email": "gsantiagosilva.gs@gmail.com",
+            "cellphone": "31998524504",
+            "password": "123456"
+        }
+    ]
+}
